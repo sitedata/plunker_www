@@ -47,7 +47,7 @@
     "mime": "~1.2.7",
     "morgan": "^1.2.2",
     "morph": "^0.2.0",
-    "nconf": "~0.6.4",
+    "nconf": "~0.10.0",
     "prerender-node": "~1.0.0",
     "request": "~2.11.4",
     "secure-filters": "~1.0.4",
