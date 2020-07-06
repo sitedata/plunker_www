@@ -23,7 +23,7 @@
   "description": "The code powering the public facing component of http://plnkr.co",
   "main": "server.js",
   "dependencies": {
-    "JSONStream": "0.4.x",
+    "JSONStream": "0.10.0",
     "ace": "git://github.com/ajaxorg/ace#v1.2.2",
     "amd-loader": "0.0.5",
     "authom": "^0.4.36",
